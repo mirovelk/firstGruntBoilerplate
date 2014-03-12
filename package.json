@@ -1,0 +1,17 @@
+{
+	"name": "firstGruntBoilerplate",
+	"version": "0.1.1",
+	"repository": "https://github.com/mirovelk/firstGruntBoilerplate",
+	"devDependencies": {
+		"grunt": "latest",
+		"grunt-cli": "latest",
+		"load-grunt-tasks": "latest",
+		"load-grunt-config": "latest",
+		"glob": "latest",
+		"grunt-contrib-jshint": "latest",
+		"grunt-contrib-concat": "latest",
+		"grunt-contrib-sass": "latest",
+		"grunt-contrib-uglify": "latest",
+		"grunt-contrib-watch": "latest"
+	}
+}

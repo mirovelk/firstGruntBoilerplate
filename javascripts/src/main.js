@@ -1,0 +1,1 @@
+console.info("Toto je test javascriptu.");
